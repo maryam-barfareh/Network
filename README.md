@@ -1,4 +1,4 @@
-# Network
+# Making Lan with 3 VMs
 Network+ Lab: 3 Debian VMs in a virtual LAN with static IPs, ping tests, and Apache web services.
 
 # Network+ Virtual Lab Project
